@@ -1,0 +1,6 @@
+const tecnologias = [{id:0, nombre: "html", img:"https://banner2.cleanpng.com/20180526/owx/kisspng-html-computer-icons-web-development-bootstrap-5b0a25293828a9.92335899152739152923.jpg"}, {id:1, nombre: "css", img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"}, {id:2, nombre: "javascript", img: "https://img2.freepng.es/20180411/cvq/kisspng-javascript-html-computer-software-web-browser-watermark-5acdbd54ac19f7.4484983215234327887049.jpg"},
+{id:3, nombre: "react", img:"https://www.vhv.rs/dpng/d/524-5245981_react-js-logo-png-transparent-png-download.png"},
+{ id:4, nombre: "python", img:"https://anthoncode.com/wp-content/uploads/2019/01/python-logo-png.png"},{id:5, nombre: "django", img: "https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png"}, {id:6, nombre: "postgresql", img:"https://img2.freepng.es/20180806/zfw/kisspng-postgresql-clip-art-database-logo-web-design-strategy-relik-5b67d8468fcf82.2394477615335322305891.jpg"}]
+
+
+export default tecnologias
