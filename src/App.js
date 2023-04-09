@@ -13,6 +13,7 @@ function App() {
       <NavBar/>
       <Switch>
         <Route exact path="/" component={Home}/>
+        <Route exact path="/react-portafolio" component={Home}/>
         <Route path="/ApiPokemon" component={Pokemones}/>
         <Route path="/GeneradorDeTareas" component={Tareas}/>
         <Route path="/AcercadeMi" component={AcercadeMi}/>
